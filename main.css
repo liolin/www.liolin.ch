@@ -1,0 +1,35 @@
+html {
+  color: #fe8019;
+  background: #1d2021;
+}
+#content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.org-rainbow-delimiters-depth-1 {
+  color: #d3869b
+}
+.org-rainbow-delimiters-depth-2 {
+  color: #83a598;
+}
+.org-rainbow-delimiters-depth-3 {
+  color: #8ec07c;
+}
+.org-rainbow-delimiters-depth-4 {
+  color: #b8bb26;}
+.org-rainbow-delimiters-depth-5 {
+  color: #fabd2f;
+}
+.org-rainbow-delimiters-depth-6 {
+  color: #fe8019;
+}
+.org-keyword {
+  color: #d3869b;
+}
+.org-builtin {
+  color: #8ec07c;
+}
+.org-string {
+  color: #b8bb26;
+}

@@ -1,0 +1,19 @@
+# -*- org-html-htmlize-output-type: css; -*-
+#+TITLE: www.liolin.ch
+#+AUTHOR: Olivier Lischer
+#+EMAIL: olivier.lischer@liolin.ch
+#+OPTIONS: title:nil
+#+OPTIONS: html-postamble:nil html-style:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="main.css" />
+
+
+#+begin_src elisp
+  (let ((me ("me"
+             :name "Olivier"
+             :surname "Lischer"
+             :age (lambda (age) (> age 25))
+             :summary "Master student with focus on Functional Programming"
+             :passions ("Programming" "Rust" "Haskell" "Software Architecture")
+             :linkedin "https://www.linkedin.com/in/olivier-lischer-6a0381157/"
+             :job "At the OST at the INF"))))
+#+end_src
