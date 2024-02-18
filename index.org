@@ -13,7 +13,7 @@
              :surname "Lischer"
              :age (lambda (age) (> age 25))
              :summary "Master student with focus on Functional Programming"
-             :passions ("Programming" "Rust" "Haskell" "Software Architecture")
+             :passions ("Programming" "Rust" "Haskell" "Software Architecture" "Sport")
              :linkedin "https://www.linkedin.com/in/olivier-lischer-6a0381157/"
              :job "At the OST at the INF"))))
 #+end_src

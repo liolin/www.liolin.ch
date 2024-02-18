@@ -2,10 +2,8 @@ html {
   color: #fe8019;
   background: #1d2021;
 }
-#content {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+body {
+  font-size: x-large;
 }
 .org-rainbow-delimiters-depth-1 {
   color: #d3869b
